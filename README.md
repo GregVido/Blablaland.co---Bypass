@@ -10,6 +10,8 @@ Il permet de contourner la sécurité de blablaland.co dû à une faille flash (
 
 ## Fonctionnement
 
+Une fois le bypass télécharger, vous aller l'extraire et ouvrir <a href="./BBL Patcher 1.0.0.exe">BBL Patcher 1.0.0.exe</a>. <br>
+Cliquez sur "Charger" et selectionner le fichier "Blablaland Desktop.exe" dans le bypass, puis cliquez sur patch.<br>
 Vous avez juste à lancer Blablaland Desktop.exe, le bypass se comportera comme le launcher de blablaland.co.
 
 ## Modifier les mods
